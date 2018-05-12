@@ -1,4 +1,4 @@
-// From previous lessons in video
+// From previous lessons in video:
 
 /*$('p').click(function() {
     $(this).slideToggle('slow');
@@ -19,6 +19,7 @@ $(document).ready(function() {
     });
 });*/
 
+// Boxes Demo:
 $(document).ready(function() {
     $('.box').on('click', function() {
         /* When we click on a .box element this event will be fired */
